@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+
+# App data
+uploads/
+resumake.db
